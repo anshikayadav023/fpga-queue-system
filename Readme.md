@@ -92,6 +92,32 @@ fpga-queue-system/
 ```
 
 ---
+## Project Demo
+
+A video demonstration of the FPGA-based queue system:
+
+[Watch Demo](https://youtu.be/S81xoo1Tysg)
+
+This demo showcases:
+
+* Real-time token generation
+* State transitions
+* Display updates on FPGA hardware
+## 📋 FSM State Table
+
+The detailed state transition table used for designing the Moore FSM is available below:
+
+[View State Table](docs/state_table.pdf)
+
+This table defines:
+
+* Present states
+* Input conditions
+* Next-state transitions
+* Output behavior
+
+It serves as the foundation for implementing deterministic FSM control logic.
+
 
 ## Verification
 
