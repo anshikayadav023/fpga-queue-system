@@ -103,7 +103,7 @@ This demo showcases:
 * Real-time token generation
 * State transitions
 * Display updates on FPGA hardware
-## 📋 FSM State Table
+## FSM State Table
 
 The detailed state transition table used for designing the Moore FSM is available below:
 
