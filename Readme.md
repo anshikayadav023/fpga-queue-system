@@ -1,4 +1,4 @@
-# 🚢 FPGA-Based Queue Management System
+# FPGA-Based Queue Management System
 
 > A fully synchronous, FSM-controlled token dispenser implemented in VHDL on the Intel DE10-Lite FPGA.
 
