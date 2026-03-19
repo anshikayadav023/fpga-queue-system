@@ -125,6 +125,5 @@ fpga-queue-system/
 ## Author
 
 **Anshika Yadav**
-Electrical Engineering
 
 ---
